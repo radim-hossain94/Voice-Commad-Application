@@ -1,0 +1,46 @@
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+zero
+close
+plus
+minius
+multiply
+divide
+equals
+ana
+ball
+cat
+bat
+end
+hi
+i am fine
+how are you?
+search for
+calculator
+goodbye
+time
+wake
+youtube
+sleep
+what is your name?
+what is today?
+google
+facebook
+kemon aso?
+clear
+minimize
+maximize
+normal
+music
+start
+pause
+next
+last
+update

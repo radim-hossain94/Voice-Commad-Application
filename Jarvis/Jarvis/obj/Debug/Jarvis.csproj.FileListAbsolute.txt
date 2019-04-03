@@ -1,0 +1,27 @@
+c:\users\user\documents\visual studio 2012\Projects\Jarvis\Jarvis\bin\Debug\Jarvis.exe.config
+c:\users\user\documents\visual studio 2012\Projects\Jarvis\Jarvis\bin\Debug\Jarvis.exe
+c:\users\user\documents\visual studio 2012\Projects\Jarvis\Jarvis\bin\Debug\Jarvis.pdb
+c:\users\user\documents\visual studio 2012\Projects\Jarvis\Jarvis\obj\Debug\Jarvis.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\Jarvis\Jarvis\obj\Debug\Jarvis.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\Jarvis\Jarvis\obj\Debug\Jarvis.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\Jarvis\Jarvis\obj\Debug\Jarvis.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\Jarvis\Jarvis\obj\Debug\Jarvis.exe
+c:\users\user\documents\visual studio 2012\Projects\Jarvis\Jarvis\obj\Debug\Jarvis.pdb
+C:\Users\Mizbah\Downloads\Compressed\ana_2\Jarvis\Jarvis\bin\Debug\Jarvis.exe.config
+C:\Users\Mizbah\Downloads\Compressed\ana_2\Jarvis\Jarvis\obj\Debug\Jarvis.exe
+C:\Users\Mizbah\Downloads\Compressed\ana_2\Jarvis\Jarvis\obj\Debug\Jarvis.pdb
+C:\Users\Mizbah\Downloads\Compressed\ana_2\Jarvis\Jarvis\bin\Debug\Jarvis.exe
+C:\Users\Mizbah\Downloads\Compressed\ana_2\Jarvis\Jarvis\bin\Debug\Jarvis.pdb
+C:\Users\Mizbah\Downloads\Compressed\ana_2\Jarvis\Jarvis\obj\Debug\Jarvis.csprojResolveAssemblyReference.cache
+C:\Users\Mizbah\Downloads\Compressed\ana_2\Jarvis\Jarvis\obj\Debug\Jarvis.Form1.resources
+C:\Users\Mizbah\Downloads\Compressed\ana_2\Jarvis\Jarvis\obj\Debug\Jarvis.Properties.Resources.resources
+C:\Users\Mizbah\Downloads\Compressed\ana_2\Jarvis\Jarvis\obj\Debug\Jarvis.csproj.GenerateResource.Cache
+H:\ana_2\Jarvis\Jarvis\bin\Debug\Jarvis.exe.config
+H:\ana_2\Jarvis\Jarvis\obj\Debug\Jarvis.exe
+H:\ana_2\Jarvis\Jarvis\obj\Debug\Jarvis.pdb
+H:\ana_2\Jarvis\Jarvis\bin\Debug\Jarvis.exe
+H:\ana_2\Jarvis\Jarvis\bin\Debug\Jarvis.pdb
+H:\ana_2\Jarvis\Jarvis\obj\Debug\Jarvis.csprojResolveAssemblyReference.cache
+H:\ana_2\Jarvis\Jarvis\obj\Debug\Jarvis.Form1.resources
+H:\ana_2\Jarvis\Jarvis\obj\Debug\Jarvis.Properties.Resources.resources
+H:\ana_2\Jarvis\Jarvis\obj\Debug\Jarvis.csproj.GenerateResource.Cache
